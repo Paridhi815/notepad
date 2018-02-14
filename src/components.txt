@@ -1,0 +1,12 @@
+->container
+    ->header
+    ->body
+        ->title
+            ->title note
+            ->text title 
+        ->en button
+        ->note
+            ->note note
+            ->note text
+        ->save
+    ->footer
