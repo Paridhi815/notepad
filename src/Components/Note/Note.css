@@ -1,0 +1,29 @@
+.outerDiv{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+.note{
+    display:flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.note > textarea{
+    resize: none;
+    flex-grow: 1;
+    box-sizing: border-box;
+    /* height:auto; */
+}
+
+.please{
+    display:flex;
+    padding: 10px 0px;
+    flex-direction: row;
+}
+
+.textAbove{
+    font-style: italic;
+    padding-right: 10px;
+}
+

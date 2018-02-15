@@ -1,0 +1,10 @@
+.last{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline; 
+}
+.last>button{
+    border:none;
+    background-color: rgb(233,233,236);
+}

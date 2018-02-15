@@ -1,6 +1,6 @@
 ->container
     ->header
-    ->body
+    ->board
         ->title
             ->title note
             ->text title 
